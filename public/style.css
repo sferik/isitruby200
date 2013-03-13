@@ -56,3 +56,7 @@ footer, footer a {
 .up-right {
   background-position: -96px 0;
 }
+
+.preload {
+  display: none;
+}
