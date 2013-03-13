@@ -4,7 +4,7 @@ body {
   margin-top: 2em;
 }
 
-h1, h2, h3, h4, h5, h6, p {
+button, h1, h2, h3, h4, h5, h6, p {
   font-weight: 300;
 }
 
@@ -14,6 +14,8 @@ form {
 
 button {
   font-family: "Open Sans", sans-serif;
+  font-size: 1.0em;
+  margin: 0 0.25em;
   padding: 0.25em 0.5em;
 }
 
